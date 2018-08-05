@@ -1,5 +1,5 @@
 # TechBot Resume Maker: http://bit.ly/resume_maker
-Instantly generate 10 different types of Resume.
+Instantly Generate Your Resume under 5 minutes.
 
 # About
 Inspired by my friends, who're having difficulty in building a Simple CV from Scratch. Resume Maker creates your kick-ass Resume in just 5 minutes.
