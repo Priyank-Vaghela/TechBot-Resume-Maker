@@ -17,4 +17,5 @@ Inspired by my friends, who're having difficulty in building a Simple CV from Sc
 
 # Demo Resume
 <img src="./assets/cv1.jpg">
+--------------------------------------------------
 <img src="./assets/cv2.jpg">
