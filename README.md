@@ -14,3 +14,7 @@ Inspired by my friends, who're having difficulty in building a Simple CV from Sc
 1. Open http://bit.ly/resume_maker
 2. Fill the Google form
 3. Done! 
+
+# Demo Resume
+<img src="./assets/cv1.jpg">
+<img src="./assets/cv2.jpg">
